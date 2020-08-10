@@ -1,2 +1,2 @@
 # EGmentoring
-Studying project
+Study project
